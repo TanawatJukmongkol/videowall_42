@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=$PWD/video_wall.sh
+Name=Live Wallpaper
+Comment=Live wallpaper mpv
+Terminal=false
+OnlyShowIn=GNOME
+Type=Application
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
